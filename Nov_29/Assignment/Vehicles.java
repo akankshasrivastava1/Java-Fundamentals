@@ -71,7 +71,7 @@ public class Vehicles {
 		System.out.println();
 		
 		//TRUCK
-		System.out.println("Truck");
+		System.out.println("TRUCK");
 		Vehicle truck  = new Vehicle();
 		truck.setModel("Mahindra");
 		truck.setWheeler(6);
