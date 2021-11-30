@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Meter",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.Meter",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fahrenheit_Celsius",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.Fahrenheit_Celsius",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Celsius",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.Celsius",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASCII3",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.ASCII3",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASCII",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.ASCII",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.Product",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datatype",
+            "request": "launch",
+            "mainClass": "Nov_10.Assignment.Datatype",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Digit",
+            "request": "launch",
+            "mainClass": "Nov_16.Digit",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "Nov_16.IfElse",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Nov_16.Function",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionCall",
+            "request": "launch",
+            "mainClass": "Nov_16.FunctionCall",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Methods",
+            "request": "launch",
+            "mainClass": "Nov_15.Methods",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Nov_14_Test.test",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversePyramidNumberII",
+            "request": "launch",
+            "mainClass": "Nov_12.Assignment.ReversePyramidNumberII",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch power",
+            "request": "launch",
+            "mainClass": "Nov_12.power",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Nov_12.test",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTypes",
+            "request": "launch",
+            "mainClass": "Nov_10.DataTypes",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Nov_9.Assignment.Prime",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoopTable",
+            "request": "launch",
+            "mainClass": "Nov_8.Assignment.ForLoopTable",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Table",
+            "request": "launch",
+            "mainClass": "Nov_8.Assignment.Table",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForAndWhileRev",
+            "request": "launch",
+            "mainClass": "Nov_8.ForAndWhileRev",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForAndWhileLoop",
+            "request": "launch",
+            "mainClass": "Nov_8.Assignment.ForAndWhileLoop",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "Nov_8.Assignment.pattern",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "Nov_8.ForLoop",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Table",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.While_loop.Table",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibanocci",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.While_loop.Fibanocci",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.While_loop.Sum",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibanocci",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.Fibanocci",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.While_loop.Factorial",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversePyramidNumber",
+            "request": "launch",
+            "mainClass": "Nov_12.Assignment.ReversePyramidNumber",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "Nov_12.Assignment.DiamondPattern",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment",
+            "request": "launch",
+            "mainClass": "Nov_12.Assignment",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern5",
+            "request": "launch",
+            "mainClass": "Nov_12.pattern5",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "Nov_12.pattern2",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern4",
+            "request": "launch",
+            "mainClass": "Nov_12.pattern4",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Nov_12.Pattern1",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern3",
+            "request": "launch",
+            "mainClass": "Nov_12.pattern3",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Nov_12.Pattern",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibanocci",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.User_Input.fibanocci",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.User_Input.Factorial",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.User_Input.Sum",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.User_Input.Swap",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Table",
+            "request": "launch",
+            "mainClass": "Nov_11.Assignment.User_Input.Table",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial(1)",
+            "request": "launch",
+            "mainClass": "Nov_11.Factorial",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum(1)",
+            "request": "launch",
+            "mainClass": "Nov_11.Sum",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap(1)",
+            "request": "launch",
+            "mainClass": "Nov_11.Swap",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Table(1)",
+            "request": "launch",
+            "mainClass": "Nov_11.Table",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibanocci",
+            "request": "launch",
+            "mainClass": "Nov_11.fibanocci",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch loopPractice",
+            "request": "launch",
+            "mainClass": "Nov_11.loopPractice",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataManipulationBasics",
+            "request": "launch",
+            "mainClass": "Nov_8.DataManipulationBasics",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops_basics",
+            "request": "launch",
+            "mainClass": "Nov_8.Loops_basics",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch introduction",
+            "request": "launch",
+            "mainClass": "Nov_8.introduction",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch while_loop",
+            "request": "launch",
+            "mainClass": "Nov_8.while_loop",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch userInputBasics",
+            "request": "launch",
+            "mainClass": "Nov_9.userInputBasics",
+            "projectName": "Java Fundamentals_6ea5e9b3"
+        }
+    ]
+}
