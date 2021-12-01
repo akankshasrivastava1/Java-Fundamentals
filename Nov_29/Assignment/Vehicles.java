@@ -10,9 +10,7 @@ class Vehicle {
 		this.model="default-name";
 		this.wheeler=4;
 		this.price=120000;
-		System.out.println(this.model);
-		System.out.println(this.wheeler);
-	    System.out.println(this.price);
+	
 	}
 
 
@@ -23,7 +21,7 @@ class Vehicle {
 		this.price=price;
 	}
 
-	// method to set 
+	// method to set the variables
 	public void setModel(String model) {
 		this.model = model;
 	}
@@ -35,7 +33,7 @@ class Vehicle {
 	public void setPrice(int price) {
 		this.price = price;
 	}
-    // method to retrieve
+    // method to retrieve the variables
     public String getModel() {
 		return model;
 	}
