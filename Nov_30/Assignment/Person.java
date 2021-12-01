@@ -1,5 +1,5 @@
 package Nov_30.Assignment;
-//Modify the code below to add more constructors. Also modify the main method to test the new constructors.
+
 public class Person {
     // fields
    String name;
@@ -57,21 +57,21 @@ public class Person {
    // main method for testing
    public static void main(String[] args)
    {
-		Person p1  = new Person();
-      System.out.println(p1.getName());
-		System.out.println(p1.getage());  
-		System.out.println(p1.getEmail());  
-		System.out.println();
+	   Person p1  = new Person();
+           System.out.println(p1.getName());
+	   System.out.println(p1.getage());  
+           System.out.println(p1.getEmail());  
+	   System.out.println();
 
-      Person p2  = new Person();
-      p2.setName("akanksha_Srivastava");
-		p2.setage(5);
-		p2.setEmail("ak@gmail.com");
-      p2.setPhoneNumber(1233445567);
-      System.out.println(p2.getName());
-		System.out.println(p2.getage());
-      System.out.println(p2.getEmail());
-      System.out.println(p2);  
+           Person p2  = new Person();
+           p2.setName("akanksha_Srivastava");
+	   p2.setage(5);
+	   p2.setEmail("ak@gmail.com");
+           p2.setPhoneNumber(1233445567);
+           System.out.println(p2.getName());
+	   System.out.println(p2.getage());
+           System.out.println(p2.getEmail());
+           System.out.println(p2);  
 		  
    }
     
