@@ -1,5 +1,5 @@
 package Nov_30.Assignment;
-//Modify the class to add a isTails method that returns true when the value is not heads
+
 public class Coin {
      // constant to represent heads
    private static int HEADS = 1;
@@ -47,7 +47,7 @@ public class Coin {
    {
 
       Coin myCoin = new Coin();
-      for (int i = 0; i < 6; i++)
+      for (int i = 0; i < 10; i++)
       {
          myCoin.flip();
          System.out.println(myCoin);
