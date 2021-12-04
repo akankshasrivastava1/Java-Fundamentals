@@ -132,10 +132,7 @@ class Animal {
 
         System.out.println("What sound does it make?");
         String voice = sc.nextLine();
-
-        System.out.println("Can it fly (true/false)?");
-        boolean fly = sc.nextBoolean();
-
+	
         System.out.println("How many legs does it have?");
         int legs = sc.nextInt();*/
 
