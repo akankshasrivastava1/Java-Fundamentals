@@ -77,7 +77,7 @@ class Animal {
     public void setNumberLegs(int numberLegs) {
         NumberLegs = numberLegs;
     }
-    public static void incrementAge() {
+    public static void incrementAge() {  //static method 
 		System.out.println("age is "+age+" count is "+CountAnimals);
 		CountAnimals++;//break point to check
 	}
