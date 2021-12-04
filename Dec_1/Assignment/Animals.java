@@ -10,8 +10,6 @@ class Animal {
     private String voice;
     private int NumberLegs;
   
-
-
     Animal() {
         this("default_type", "dafault_name","default_voice",4);   //calls constructor 
     } 
