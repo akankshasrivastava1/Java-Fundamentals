@@ -113,7 +113,7 @@ class Animal {
             System.out.println();
 		
             System.out.println("**ELEPHANT***");
-            Animal elephant=new Animal("elephant","Griffin","bark"); // apporach 3 for assigning value
+            Animal elephant=new Animal("elephant","Griffin","trumpet"); // apporach 3 for assigning value
             Animal.age=30;
 	    Animal.incrementAge();
             System.out.println(elephant);
