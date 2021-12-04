@@ -13,16 +13,11 @@ class Animal {
 
 
     Animal() {
-        this("default_type", "dafault_name","default_voice",4);   //calls constructor 2
-       /* this.type ="default_type";
-        this.name ="dafault_name";
-        this.voice= "default_type";
-        this. NumberLegs = 4;*/
-        //ountAnimals++; //every time the constructor is called, 
-    }    //one more object of type Animal gets created
+        this("default_type", "dafault_name","default_voice",4);   //calls constructor 
+    } 
 
      Animal(String type, String name, String voice) {
-        this(type, name, voice, 4);  //calls constructor 2
+        this(type, name, voice, 4);  //calls constructor 
         this.type = type;
         this.name = name;
         this.voice = voice;
@@ -34,7 +29,6 @@ class Animal {
         this.voice = voice;
         this.NumberLegs = NumberLegs;
     }
-
 
     public static int getAge() {
         return age;
@@ -97,42 +91,38 @@ class Animal {
 }
  public class Animals {
     public static void main (String [] args ) {
-        
-        System.out.println("***DOG***");
-        Animal dog=new Animal("dog","Rover","bark"); // apporach 1 for assigning value
-        Animal.age=15;
-		Animal.incrementAge();
-        System.out.println(dog.getType());
-		System.out.println(dog.getName());  
-		System.out.println(dog.getVoice());  
-		System.out.println(dog.getType());
-        System.out.println(dog);
-		System.out.println();
+	    System.out.println("***DOG***");
+            Animal dog=new Animal("dog","Rover","bark"); // apporach 1 for assigning value
+            Animal.age=15;
+	    Animal.incrementAge();
+            System.out.println(dog.getType());
+	    System.out.println(dog.getName());  
+	    System.out.println(dog.getVoice());  
+	    System.out.println(dog.getType());
+            System.out.println(dog);
+	    System.out.println();
 
-        System.out.println("***CAT***");
-        Animal cat = new Animal();
-        cat.setType("cat"); //apporach 2 for assigning value
-        //cat.setName("");
-        cat.setVoice("Meow");
-		Animal.age=6;
-		Animal.incrementAge();
-		System.out.println(cat.getName());  
-		System.out.println(cat.getVoice());  
-		System.out.println(cat.getType());
-        System.out.println(cat);
-        System.out.println();
+            System.out.println("***CAT***");
+            Animal cat = new Animal();
+            cat.setType("cat"); //apporach 2 for assigning value
+            cat.setVoice("Meow");
+	    Animal.age=6;
+	    Animal.incrementAge();
+	    System.out.println(cat.getName());  
+	    System.out.println(cat.getVoice());  
+	    System.out.println(cat.getType());
+            System.out.println(cat);
+            System.out.println();
 		
-        System.out.println("**ELEPHANT***");
-        Animal elephant=new Animal("elephant","Griffin","bark"); // apporach 3 for assigning value
-        Animal.age=30;
-		Animal.incrementAge();
-        System.out.println(elephant);
-        System.out.println();
+            System.out.println("**ELEPHANT***");
+            Animal elephant=new Animal("elephant","Griffin","bark"); // apporach 3 for assigning value
+            Animal.age=30;
+	    Animal.incrementAge();
+            System.out.println(elephant);
+            System.out.println();
 
-
-        System.out.println("So far, " + Animal.CountAnimals + " animals have been created.");
+            System.out.println("So far, " + Animal.CountAnimals + " animals have been created.");
     }    
-    
 }      /* Scanner sc = new Scanner(System.in);
 
         //ask for and read input from the user
@@ -151,5 +141,3 @@ class Animal {
         System.out.println("How many legs does it have?");
         int legs = sc.nextInt();*/
 
-        // Create the animal and return it
-       // return new Animal();
