@@ -4,9 +4,6 @@ public class Coin {
      // constant to represent heads
    private static int HEADS = 1;
 
-   // constant to represent tails
-   private static int TAILS = 1;
-
    // current value of the coin
    private int value = 0;
 
@@ -22,8 +19,7 @@ public class Coin {
          value = 1;
       }
    }
-
-   // return false if the value is heads or true otherwise
+   //return false if the value is heads
    public boolean isHeads()
    {
       return value != HEADS;
@@ -31,7 +27,7 @@ public class Coin {
   // return true if the value is tails or false otherwise
    public boolean isTails()
    {
-      return value == TAILS;
+      return value == HEADS;
    }
 
    // convert the value to a string
