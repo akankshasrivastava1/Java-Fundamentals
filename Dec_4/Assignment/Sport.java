@@ -1,4 +1,6 @@
 package Dec_4.Assignment;
+/* When a subclass inherits from a superclass, it also inherits its methods; 
+however, it can also override the superclass methods (as well as declare and implement new ones). Consider the following Sports class:*/
 class Sports{
     String getName(){
         return "Generic Sports";
