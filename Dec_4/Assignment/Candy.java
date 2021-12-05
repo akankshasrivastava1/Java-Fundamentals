@@ -1,5 +1,6 @@
 package Dec_4.Assignment;
-
+/*Override the taste method from the Candy class in the Chocolate class to return “tastes chocolately”. 
+It should print “tastes sweet!” and then “tastes chocolately”.*/
 public class Candy {
     public String taste()
     {
