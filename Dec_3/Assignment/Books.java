@@ -18,10 +18,8 @@ class MyBook extends Book{
 public class Books {
     public static void main(String[] args)
 	{
-		MyBook chapter=new MyBook(); 
-		chapter.setTitle("A tale of two cities");
-        System.out.println("The title is: "+chapter.getTitle());
-	}
-
-  
+	    MyBook chapter=new MyBook(); 
+	    chapter.setTitle("A tale of two cities");
+            System.out.println("The title is: "+chapter.getTitle());
+	} 
 }
